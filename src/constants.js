@@ -1,0 +1,7 @@
+export const ADD_GENRE = 'ADD_GENRE'
+export const ADD_PLATFORM = 'ADD_PLATFORM'
+export const ADD_THEME = 'ADD_THEME'
+export const ADD_DATE = 'ADD_DATE'
+export const USER_AUTH = 'USER_AUTH'
+export const ADD_GAME = 'ADD_GAME'
+export const RESET_SHOPPING_CART = 'RESET_SHOPPING_CART'
